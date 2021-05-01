@@ -3,7 +3,9 @@ Ghostly is a void that let's you speak into it :)
 
 ## Schema design
 
-![ghostify](https://user-images.githubusercontent.com/20106622/116771499-98655d80-aa69-11eb-96b1-59acf127f314.PNG)
+
+![ghostly_schema](https://user-images.githubusercontent.com/20106622/116774465-66102c00-aa7a-11eb-93b4-77f8aac28a4e.PNG)
+
 
 
 

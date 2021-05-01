@@ -1,5 +1,5 @@
-# ghostify
-Ghostify is a void that let's you speak into it :)
+# ghostly
+Ghostly is a void that let's you speak into it :)
 
 ## Schema design
 

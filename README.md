@@ -8,6 +8,7 @@ Ghostly is a void that let's you speak into it :)
 
 
 
+- Note: I'm considering the system to have millions of likes and replies so making the database trade-off accordingly.
 
 
 ## APIs

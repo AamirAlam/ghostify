@@ -16,7 +16,7 @@ Ghostify is a void that let's you speak into it :)
 
 * **URL**
 
-  /auth/login/v1
+  api/auth/login/v1
 
 * **Method:**
 
@@ -48,7 +48,7 @@ Ghostify is a void that let's you speak into it :)
 * **Sample Call:**
 
   ```javascript
-  curl --location --request POST 'localhost:5000/api/auth/v1/login' \
+  curl --location --request POST 'ghostify.com/api/auth/login/v1' \
   --header 'Content-Type: application/json' \
   --data-raw '{
 

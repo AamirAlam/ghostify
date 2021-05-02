@@ -1,6 +1,12 @@
 # ghostly
 Ghostly is a void that let's you speak into it :)
 
+
+## UI mockups
+
+[figma mockup](https://www.figma.com/proto/NxbNHLwdU2xYvnavkfeYER/Ghostly?node-id=214%3A366&scaling=min-zoom&page-id=123%3A1)
+
+
 ## Schema design
 
 
